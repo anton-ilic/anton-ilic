@@ -9,7 +9,7 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 
 ## What I’m up to
 - 🧪 Interests: tooling, automation, embedded, and CAD automation
-- 🤝 Open to: internships, collabs - I love hackathons; Check out my projects on [**Devpost**](https://devpost.com/Antonfromvancouver)
+- 🤝 Open to: internships, collabs - I love hackathons; Check out my projects on [**Devpost**](https://devpost.com/anton-ilic)
 
 ---
 
@@ -26,6 +26,7 @@ I'm **Anton**, an Engineering student @ **SFU** with a focus on software and too
 
 
 Feel free to reach out if you'd like to connect. I'm happy to chat about projects, hackathons, or new ideas!
+
 
 
 
