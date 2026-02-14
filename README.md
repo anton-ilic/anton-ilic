@@ -28,13 +28,15 @@ Check out my projects on **Devpost**:
 
 ## 🤝 Let’s Connect
 
-[![Devpost](https://img.shields.io/badge/Devpost-anton--ilic-000000?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/anton-ilic)
-[![Email](https://img.shields.io/badge/Email-antonilic%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:antonilic@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--ilic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-ilic)
+[![Devpost](https://img.shields.io/badge/Devpost-anton--ilic-111111?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/anton-ilic)
+[![Email](https://img.shields.io/badge/Email-antonilic%40protonmail.com-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:antonilic@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--ilic-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-ilic)
+
 
 ---
 
 If you're working on something interesting — tooling, infra, research, or a hackathon idea — I’m always open to collaborating.
+
 
 
 
