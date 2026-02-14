@@ -20,11 +20,7 @@ Check out my projects on **Devpost**:
 
 ## 📊 GitHub Snapshot
 
-<a href="https://github.com/anton-ilic">
-  <img align="top" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-ilic&layout=compact&hide_title=true" alt="Top Languages">
-</a>
-
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-ilic&layout=compact&hide_title=true)](https://github.com/anton-ilic)
 
 ## 🤝 Let’s Connect
 
@@ -36,6 +32,7 @@ Check out my projects on **Devpost**:
 ---
 
 If you're working on something interesting — tooling, infra, research, or a hackathon idea — I’m always open to collaborating.
+
 
 
 
