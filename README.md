@@ -1,16 +1,9 @@
-# Anton Ilic
+- Hi there, I'm Anton, a Computer Engineering student at Simon Fraser University.
 
-Computer Engineering student at **Simon Fraser University**.  
-I build reliable systems focused on tooling, automation, backend infrastructure, and performance.
+- I enjoy building backend services and tools that improve engineering workflows.
 
-## Tech
-`Python` · `Java` · `C#` · `Go` · `SQL` · `C/C++` · `Rust` · `MATLAB`
+- I'm currently a Software Engineering Intern at Zebra Technologies, where I work on automation and internal tooling.
 
-## Current
-Software Engineering Intern at **Zebra Technologies** (Montréal, QC)  
-Building automation and internal tooling.
+- Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/anton-ilic
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anton--ilic-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-ilic)
-[![Devpost](https://img.shields.io/badge/Devpost-anton--ilic-111111?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/anton-ilic)
-[![Email](https://img.shields.io/badge/Email-protonmail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:antonilic@protonmail.com)
+- You can also check out my projects on Devpost: https://devpost.com/anton-ilic
