@@ -2,7 +2,7 @@
 
 - I enjoy building backend services and tools that improve engineering workflows.
 
-- I'm currently a Software Engineering Intern at Zebra Technologies, where I work on automation and internal tooling.
+- I'm currently a Software Engineering Intern at SAP.
 
 - Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/anton-ilic
 
